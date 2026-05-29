@@ -1,15 +1,13 @@
 # Presentació Personal
 
-**Nom:** 
-**Curs:** 
-**Mòdul:** 
-**Data de defensa:** 
+**Nom:** Christian Bogdanas
+**Curs:** 2n de SMX
+**Data:** 29/05/2026
 
-> Breu descripció personal (2-3 línies sobre tu i el teu perfil)
-
+> Em dic Christian Bogdanas, tinc 18 anys. He finalitzat el Grau de Sistemes Microinformàtics i Xarxes a l'Escola Pia Santa Anna. Soc un noi molt apasionat al mont de la tecnologia, lam infromàtica i els esports com la natacio. 
 ---
 
-## 📋 Índex de la Defensa
+## Índex
 
 1. [Perfil de GitHub](#perfil-de-github)
 2. [Anàlisi de Projectes](#anàlisi-de-projectes)
@@ -19,156 +17,38 @@
 
 ---
 
-## 🐙 Perfil de GitHub
+## Perfil de GitHub
 
-🔗 **Perfil:** [github.com/usuari](https://github.com/usuari)
+🔗 **Perfil:** [github.com](https://github.com/0NotCris0)
 
 ### README del Perfil
-> (explica aquí els punts principals del teu README)
+> Els punts principals del meu READEM.md es una explicacio breu del mues conexiements, lo que estic treballant y el que estic aprenent. 
 
 ### Estructura General del Perfil
-> (descriu com has organitzat el teu perfil)
+> La estructura general del meu perfil ha sigut molt simple, he intentat organitzar els repositoris per projectes, amb una descripció clara de cada un i enllaços als README detallats. També he mantingut una activitat regular amb commits i actualitzacions.
 
 ### Repositoris Principals
 
 | Repositori | Descripció | Estat |
 |------------|------------|-------|
-| [Projecte 01](#) | | ✅ |
-| [Projecte 02](#) | | ✅ |
-| [Projecte 03](#) | | ✅ |
-| [Projecte 04](#) | | ✅ |
-| [Projecte 05](#) | | ✅ |
-| [Projecte 06](#) | | ✅ |
-| [Projecte 07](#) | | ✅ |
-| [Projecte 08](#) | | ✅ |
+| [Projecte 02](https://github.com/0NotCris0/Projecte2) | Creació i creixement d’EverPia, una consultora IT enfocada a resoldre reptes tecnològics i ajudar empreses i persones a evolucionar | ✅ |
+| [Projecte 03](https://github.com/0NotCris0/Projecte3) | Simulació d’una empresa IT en expansió on cal gestionar incidències, servidors i problemes derivats del creixement | ✅ |
+| [Projecte 04](https://github.com/0NotCris0/Projecte4) | Projecte final orientat a demostrar les competències professionals adquirides: treball en equip, documentació, investigació i resolució de problemes| ✅ |
+| [Projecte 05](https://github.com/0NotCris0/projecte5) | Disseny inicial d’una proposta de negoci IT B2B, centrant-se en la definició tècnica i l’estructura de la solució| ✅ |
+| [Projecte 06](https://github.com/0NotCris0/projecte6) | Desenvolupament d’una plataforma E-learning amb una infraestructura de servidor eficient, sostenible i adaptada a una PIME| ✅ |
+| [Projecte 07](https://github.com/0NotCris0/projecte7) | Modernització de la infraestructura informàtica d’una empresa logística per millorar seguretat, comunicació i continuïtat del negoci| ✅ |
+| [Projecte 08](https://github.com/0NotCris0/projecte8) |Consultoria tecnològica per ajudar una PIME en la seva transformació digital de manera eficient i sostenible | ✅ |
 
 ---
 
-## 🗂️ Anàlisi de Projectes
+##  Anàlisi de Projectes
 
 > *(El tribunal seleccionarà 2 projectes random)*
 
-### Projecte X — Nom del Projecte
-🔗 [Repositori](#)
-
-- **Objectiu:**
-- **Estructura del projecte:**
-- **Decisions tècniques:**
-- **Problemes trobats:**
-- **Solucions aplicades:**
-
-### Projecte Y — Nom del Projecte
-🔗 [Repositori](#)
-
-- **Objectiu:**
-- **Estructura del projecte:**
-- **Decisions tècniques:**
-- **Problemes trobats:**
-- **Solucions aplicades:**
-
 ---
 
-## 🛠️ Defensa Tècnica
-
-### Projecte 01 — Arranquem
-🔗 [Repositori](#)
-
-- **Repte inicial:**
-- **Solució proposada:**
-- **Passos seguits:**
-- **Evidències/Informes:**
-- **Dificultats:**
-- **Aprenentatges:**
-
----
-
-### Projecte 02 — Consultoria EverPia
-🔗 [Repositori](#)
-
-- **Repte inicial:**
-- **Solució proposada:**
-- **Passos seguits:**
-- **Evidències/Informes:**
-- **Dificultats:**
-- **Aprenentatges:**
-
----
-
-### Projecte 03 — Consultoria EverPia 2
-🔗 [Repositori](#)
-
-- **Repte inicial:**
-- **Solució proposada:**
-- **Passos seguits:**
-- **Evidències/Informes:**
-- **Dificultats:**
-- **Aprenentatges:**
-
----
-
-### Projecte 04 — Consultoria EverPia 3
-🔗 [Repositori](#)
-
-- **Repte inicial:**
-- **Solució proposada:**
-- **Passos seguits:**
-- **Evidències/Informes:**
-- **Dificultats:**
-- **Aprenentatges:**
-
----
-
-### Projecte 05 — La Incubadora
-🔗 [Repositori](#)
-
-- **Repte inicial:**
-- **Solució proposada:**
-- **Passos seguits:**
-- **Evidències/Informes:**
-- **Dificultats:**
-- **Aprenentatges:**
-
----
-
-### Projecte 06 — Nexus
-🔗 [Repositori](#)
-
-- **Repte inicial:**
-- **Solució proposada:**
-- **Passos seguits:**
-- **Evidències/Informes:**
-- **Dificultats:**
-- **Aprenentatges:**
-
----
-
-### Projecte 07 — Food Logístics S.A.
-🔗 [Repositori](#)
-
-- **Repte inicial:**
-- **Solució proposada:**
-- **Passos seguits:**
-- **Evidències/Informes:**
-- **Dificultats:**
-- **Aprenentatges:**
-
----
-
-### Projecte 08 — Connecta't al Futur
-🔗 [Repositori](#)
-
-- **Repte inicial:**
-- **Solució proposada:**
-- **Passos seguits:**
-- **Evidències/Informes:**
-- **Dificultats:**
-- **Aprenentatges:**
-
----
 
 ## 📊 Metodologia de Treball
-
-### Com divideixo un projecte en tasques
 
 
 ### Fases del projecte
