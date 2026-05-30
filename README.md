@@ -41,18 +41,12 @@
 
 ---
 
-##  Anàlisi de Projectes
-
-> *(El tribunal seleccionarà 2 projectes random)*
-
----
-
-
 ## 📊 Metodologia de Treball
 
 
 ### Fases del projecte
 
+Hem traballat amb diferents eines i metodologies al llarg dels projectes.
 
 ### Tauler Kanban
 
@@ -60,32 +54,15 @@
 |-----------|-----------|--------------|--------------|
 | | | | |
 
+- [Kanban ](https://planner.cloud.microsoft/webui/myplans/recent?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
+
 ### Diagrama de Gantt
-> (captura o enllaç al Gantt d'algun projecte)
+
+![Diagrama de Gantt](img/gantt_foodlogistic.png)
 
 ### GitHub com a eina de seguiment
-> (commits, branches, issues, README — exemples reals)
-
-### Exemple Real Viscut
-> (explica una situació concreta: una tasca que es va complicar, una desviació, una decisió presa gràcies al Kanban...)
-
-**Situació:**
-
-**Com ho vaig gestionar:**
-
-**Resultat:**
 
 ---
 
-## 🎯 Conclusions i Aprenentatges
+## Conclusions i Aprenentatges
 
-### Aprenentatges tècnics
-
-
-### Aprenentatges organitzatius
-
-
-### Millores que aplicaria
-
-
-### Valoració personal del curs
