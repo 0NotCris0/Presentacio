@@ -11,9 +11,8 @@
 
 1. [Perfil de GitHub](#perfil-de-github)
 2. [Anàlisi de Projectes](#anàlisi-de-projectes)
-3. [Defensa Tècnica](#defensa-tècnica)
-4. [Metodologia de Treball](#metodologia-de-treball)
-5. [Conclusions i Aprenentatges](#conclusions-i-aprenentatges)
+3. [Metodologia de Treball](#metodologia-de-treball)
+4. [Conclusions i Aprenentatges](#conclusions-i-aprenentatges)
 
 ---
 
@@ -41,7 +40,7 @@
 
 ---
 
-## 📊 Metodologia de Treball
+## Metodologia de Treball
 
 
 ### Fases del projecte
